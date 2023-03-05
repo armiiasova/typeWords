@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    
+  }
+  body{
+    background-color: lightblue;
+  }
+  .container{
+    background-color: blue;
+    color:white;
+    width: 600px;
+    margin: auto;
+    padding: 1rem;
+  }
+  header{
+    display:flex;
+    justify-content: space-around;
+  }
+  .amountOfWords{
+  font-size: x-large;
+    font-weight: bolder;
+  }
+  .amountOfCharacters{
+  font-size: x-large;
+    font-weight: bolder;
+  }
+  #text{
+    width: 100%;
+    border-radius: 5px;
+  }
